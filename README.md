@@ -1,3 +1,4 @@
-## This website is developed using React js and has been deployed at https://fancy-chaja-d700be.netlify.app/
+This website is developed using React js and has been deployed at https://textutils365.netlify.app/
 
-# textUtils is a utility website developed for help removing extra space, capitalizing etc.   
+
+# TextUtils is a utility which can be used to manipulate your text in the way you want.   
